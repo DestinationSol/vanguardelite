@@ -1,3 +1,6 @@
+# Vanguard Elite
+![image](imperialBigElite/assets/ships/imperialBigElite/imperialBigElite.png)
+
 This module adds the Vanguard Elite (internal name imperialBigElite), an upgraded version of the Vanguard.
 
 It can be obtained by either starting a new game and selecting the ship, or buying it in a space station 
