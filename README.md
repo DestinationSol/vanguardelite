@@ -4,3 +4,5 @@ It can be obtained by either starting a new game and selecting the ship, or buyi
 within a system other than the spawn system for 5000 credits. This module also adds this ship as an ally 
 with three squads of three ships roaming around in each non-spawn system, as well as a station guard in
 said systems.
+
+Ship texture by Cyfre
