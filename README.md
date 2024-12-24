@@ -5,4 +5,7 @@ within a system other than the spawn system for 5000 credits. This module also a
 with three squads of three ships roaming around in each non-spawn system, as well as a station guard in
 said systems.
 
+As of 12/24/2024, the latest source build is required as the module utilizes changes made in a specific
+file.
+
 Ship texture by Cyfre
