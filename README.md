@@ -8,4 +8,4 @@ said systems.
 As of 12/24/2024, the latest source build is required as the module utilizes changes made in a specific
 file.
 
-Ship texture by @jozefcifre
+Ship texture by https://github.com/jozefcifre
