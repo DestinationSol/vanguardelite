@@ -10,7 +10,7 @@
         "rechargeTime": 5
     },
     "displayName": "Vanguard Elite",
-    "engine": "imperialBigElite:imperialEliteEngine",
+    "engine": "vanguardelite:imperialEliteEngine",
     "gunSlots": [
         {
             "position": "0.54 0.26",
