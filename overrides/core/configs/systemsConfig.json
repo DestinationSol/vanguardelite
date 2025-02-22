@@ -31,7 +31,7 @@
                 "density": 1,
 
                 "guard": {
-                    "hull": "imperialBigElite:imperialBigElite",
+                    "hull": "vanguardelite:imperialBigElite",
                     "items": "99*rep core:fixedShotGun core:fixedShotGun core:advancedArmor core:advancedShield",
                     "density": 5
                 }
@@ -105,12 +105,12 @@
 
         "constantAllies": [
             {
-                "hull": "imperialBigElite:imperialBigElite",
+                "hull": "vanguardelite:imperialBigElite",
                 "items": "99*rep core:fixedShotGun core:fixedShotGun core:advancedArmor core:advancedShield",
                 "density": 3,
 
                 "guard": {
-                    "hull": "imperialBigElite:imperialBigElite",
+                    "hull": "vanguardelite:imperialBigElite",
                     "items": "99*rep core:fixedShotGun core:fixedShotGun core:advancedArmor core:advancedShield",
                     "density": 2
                 }
@@ -122,7 +122,7 @@
                 "density": 2,
 
                 "guard": {
-                    "hull": "imperialBigElite:imperialBigElite",
+                    "hull": "vanguardelite:imperialBigElite",
                     "items": "99*rep core:fixedShotGun core:fixedShotGun core:advancedArmor core:advancedShield",
                     "density": 5
                 }
@@ -171,7 +171,7 @@
 
         "trading": {
             "items": "rep core:sloMoCharge core:fixedGun core:bulletClip core:mediumArmor core:shield core:fixedShotGun core:shellClip core:bigShield",
-            "ships": "core:imperialMedium core:imperialBig imperialBigElite:imperialBigElite",
+            "ships": "core:imperialMedium core:imperialBig vanguardelite:imperialBigElite",
 
             "mercenaries": [
                 {
@@ -180,7 +180,7 @@
                     "money": 200
                 },
                 {
-                    "hull": "imperialBigElite:imperialBigElite",
+                    "hull": "vanguardelite:imperialBigElite",
                     "items": "99*rep core:fixedShotGun core:fixedShotGun core:advancedArmor core:advancedShield"
                 }
             ]
