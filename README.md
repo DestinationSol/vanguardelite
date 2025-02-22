@@ -1,7 +1,7 @@
 # Vanguard Elite
 ![image](assets/ships/imperialBigElite/imperialBigElite.png)
 
-This module adds the Vanguard Elite (internal name `imperialBigElite`), an upgraded version of the Vanguard.
+This module adds the Vanguard Elite (internal ship name `imperialBigElite`), an upgraded version of the Vanguard.
 
 It can be obtained by either starting a new game and selecting the ship, or buying it in a station 
 within a system other than the spawn system for 5000 credits. This module also adds this ship as an ally 
