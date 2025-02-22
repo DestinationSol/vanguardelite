@@ -1,6 +1,6 @@
 {
     "Vanguard Elite": {
-        "hull": "imperialBigElite:imperialBigElite",
+        "hull": "vanguardelite:imperialBigElite",
         "items": "99*rep core:advancedArmor-1 core:advancedShield-1 core:fixedCannon-1 core:fixedCannon-2 99*core:slugClip",
         "money": 10000
     }
