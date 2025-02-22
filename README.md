@@ -21,4 +21,4 @@ purchase as a mercenary in stations in non-spawn systems for 10000 credits.
 
 ### Version 1.1.1
 
-An animation was added to the Vanguard Elite's siren lights.
+An animation was added to the Vanguard Elite's siren lights. (Animation by [Du4lity5151](https://github.com/Du4lity5151))
