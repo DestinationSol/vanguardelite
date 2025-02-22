@@ -3,7 +3,7 @@
                 "items": "core:cannon core:cannon",
 
                 "guard": {
-                    "hull": "imperialBigElite:imperialBigElite",
+                    "hull": "vanguardelite:imperialBigElite",
                     "items": "99*rep core:fixedShotGun core:fixedShotGun core:advancedArmor core:advancedShield",
                     "density": 5
                 }
