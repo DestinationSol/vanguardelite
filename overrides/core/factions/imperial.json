@@ -4,7 +4,7 @@
   "colour": "b0c4de",
   "defaultDisposition": 5,
   "shipDesigns": [
-    "imperialBigElite:imperialBigElite",
+    "vanguardelite:imperialBigElite",
     "core:imperialBig",
     "core:imperialCapital",
     "core:imperialMedium",
