@@ -1,0 +1,10 @@
+ {
+                "hull": "core:station",
+                "items": "core:cannon core:cannon",
+
+                "guard": {
+                    "hull": "imperialBigElite:imperialBigElite",
+                    "items": "99*rep core:fixedShotGun core:fixedShotGun core:advancedArmor core:advancedShield",
+                    "density": 5
+                }
+            }

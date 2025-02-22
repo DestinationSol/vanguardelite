@@ -1,0 +1,7 @@
+{
+    "name": "Imperial Elite Engine",
+    "big": false,
+    "rotationAcceleration": 600,
+    "acceleration": 4,
+    "maxRotationSpeed": 300
+}
