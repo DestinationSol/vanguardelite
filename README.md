@@ -18,3 +18,7 @@ The module has been updated to fix a bug that prevented the game from loading. T
 been properly added to the `imperial` faction and the `disposition` value is set to 5, so the Empire
 (including the Vanguard Elite allies) will now become hostile if harmed enough. It is now available for
 purchase as a mercenary in stations in non-spawn systems for 10000 credits.
+
+# Version 1.1.1
+
+An animation was added to the Vanguard Elite's siren lights.
