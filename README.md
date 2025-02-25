@@ -1,5 +1,5 @@
 # Vanguard Elite
-![image](assets/ships/imperialBigElite/imperialBigElite.png)
+![image](readmeImperialBigElite.png)
 
 This module adds the Vanguard Elite (internal ship name `imperialBigElite`), an upgraded version of the Vanguard.
 
