@@ -10,7 +10,7 @@ with three squads of three ships roaming around in each non-spawn system.
 As of 12/24/2024, the latest source build is required as the module utilizes changes made in a specific
 file.
 
-Original Vanguard Elite texture by [Jozef Cifre](https://github.com/jozefcifre)
+Vanguard Elite sprite by [Jozef Cifre](https://github.com/jozefcifre) and original Vanguard sprite by original game developers
 
 ## Version 1.1.0
 
