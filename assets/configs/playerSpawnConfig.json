@@ -1,7 +1,8 @@
 {
     "Vanguard Elite": {
         "hull": "vanguardelite:imperialBigElite",
-        "items": "99*rep core:advancedArmor-1 core:advancedShield-1 core:fixedCannon-1 core:fixedCannon-2 99*core:slugClip",
+        "items": "30*rep 27*core:sloMoCharge 27*core:shellClip core:fixedShotGun-1 core:fixedShotGun-2 core:advancedArmor-1 core:advancedShield-1",
         "money": 10000
     }
 }
+
