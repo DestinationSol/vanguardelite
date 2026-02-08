@@ -12,7 +12,7 @@ file.
 
 Licensed under Apache 2.0. In summary, if you upload this mod somewhere else or make modifications to it, the LICENSE and NOTICE file should be intact and any changes to files should be documented.
 
-Vanguard Elite sprite by [Jozef Cifre](https://github.com/jozefcifre) and original Vanguard sprite by original game developers
+Vanguard Elite sprite by [Jozef Cifre](https://github.com/jozefcifre) and original Vanguard sprite by original game artist
 
 ## Version 1.1.0
 
