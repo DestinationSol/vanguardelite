@@ -10,6 +10,8 @@ with three squads of three ships roaming around in each non-spawn system.
 As of 12/24/2024, the latest source build is required as the module utilizes changes made in a specific
 file.
 
+Licensed under Apache 2.0. In summary, if you upload this mod somewhere else or make modifications to it, the LICENSE and NOTICE file should be intact and any changes to files should be documented.
+
 Vanguard Elite sprite by [Jozef Cifre](https://github.com/jozefcifre) and original Vanguard sprite by original game developers
 
 ## Version 1.1.0
