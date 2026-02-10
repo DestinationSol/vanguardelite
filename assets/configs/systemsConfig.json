@@ -1,0 +1,31 @@
+{
+    "hard": {
+    	"hard": true,
+
+        "constantAllies": [
+            {
+                "hull": "vanguardelite:imperialBigElite",
+                "items": "core:fixedShotGun core:fixedShotGun core:advancedArmor core:advancedShield",
+                "density": 3,
+
+                "guard": {
+                    "hull": "vanguardelite:imperialBigElite",
+                    "items": "core:fixedShotGun core:fixedShotGun core:advancedArmor core:advancedShield",
+                    "density": 2
+                }
+            }
+        ],
+
+        "trading": {
+            "items": "core:shellClip",
+            "ships": "vanguardelite:imperialBigElite",
+
+            "mercenaries": [
+                {
+                    "hull": "vanguardelite:imperialBigElite",
+                    "items": "30*rep 30*core:sloMoCharge core:fixedShotGun core:fixedShotGun core:advancedArmor core:advancedShield"
+                }
+            ]
+        }
+    }
+}
