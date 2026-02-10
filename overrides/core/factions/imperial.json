@@ -2,7 +2,7 @@
   "name": "Imperial",
   "description": "The Imperial faction has reigned for millennia. Their might is barely contested. Offend at your peril.",
   "colour": "b0c4de",
-  "defaultDisposition": 5,
+  "defaultDisposition": 50,
   "shipDesigns": [
     "vanguardelite:imperialBigElite",
     "core:imperialBig",
@@ -13,3 +13,4 @@
     "core:station"
   ]
 }
+
